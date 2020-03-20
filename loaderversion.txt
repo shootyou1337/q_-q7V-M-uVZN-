@@ -1,0 +1,8 @@
+{
+version : '0.1',
+downloadLink : '',
+Message: '0.1',
+ChangeLog : ' ',
+isClose : 'true',
+filename: 'Howling-Loader 11-01.exe'
+}
